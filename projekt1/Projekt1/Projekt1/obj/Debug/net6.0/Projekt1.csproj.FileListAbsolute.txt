@@ -1,0 +1,15 @@
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.exe
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.dll
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\bin\Debug\net6.0\ref\Projekt1.dll
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.dll
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+D:\Kurs  front-end\C#\projekt1\Projekt1\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
